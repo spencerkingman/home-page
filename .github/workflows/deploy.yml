@@ -10,9 +10,6 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
 
-    env:
-      PROJECT_PATH: ../
-
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -25,7 +22,6 @@ jobs:
 
       - name: Build project
         run: npm run build
-        working-directory: ${{ github.workspace }}/${{ env.PROJECT_PATH }}
 
       - name: Upload production-ready build files
         uses: actions/upload-artifact@v3
