@@ -23,12 +23,12 @@ function App() {
               className="w-64 p-2 pl-0"
               href="https://personal-page.spencerkingman.com"
             >
-              diary
+              music diary
             </a>
           </li>
           <li className="m-1  p-2 pl-0">
             <a
-              className="w-64 p-2 pl-0"
+              className="pointer-events-none w-64 p-2 pl-0 line-through"
               href="https://personal-page.spencerkingman.com"
             >
               lists
@@ -36,7 +36,7 @@ function App() {
           </li>
           <li className="m-1   p-2 pl-0">
             <a
-              className="w-64 p-2 pl-0"
+              className="pointer-events-none w-64 p-2 pl-0 line-through"
               href="https://personal-page.spencerkingman.com"
             >
               art
