@@ -1,18 +1,14 @@
 {
-  "name": "reactjs-vite-tailwindcss-boilerplate",
-  "description": "This is a boilerplate build with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.",
+  "name": "spencer-kingman-home-page",
+  "description": "This is a landing page built with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.",
   "homepage": "https://{username}.github.io/{repo-name}/",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "author": {
-    "name": "João Paulo Moraes",
-    "email": "joaopaulomoraes@outlook.com",
-    "url": "https://github.com/joaopaulomoraes"
-  },
-  "bugs": {
-    "url": "https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate/issues",
-    "email": "joaopaulomoraes@outlook.com"
+    "name": "Spencer Kingman",
+    "email": "spencerkingman@gmail.com",
+    "url": "https://github.com/spencerkingman"
   },
   "scripts": {
     "dev": "vite",
